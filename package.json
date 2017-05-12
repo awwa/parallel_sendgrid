@@ -1,0 +1,16 @@
+{
+  "name": "parallel_sendgrid",
+  "version": "1.0.0",
+  "description": "Send email parallel via SendGrid Web API v3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wataru Sato",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^2.4.0",
+    "dotenv": "^4.0.0",
+    "sendgrid": "^5.1.0"
+  }
+}
